@@ -81,10 +81,5 @@ AirPulse follows a **four-layer architecture**:
 ## 👤 Author
 
 **Gaurav Kumar**  
-[GitHub](https://github.com/gauravkumar)
+[GitHub](https://github.com/gaurav-pixel)
 
----
-
-## 📜 License
-
-MIT License
